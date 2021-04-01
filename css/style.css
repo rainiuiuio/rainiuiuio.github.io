@@ -15,7 +15,7 @@ body {
   min-height: 100%;
   background: var(--bg);
   font-size: 16px;
-  font-family: Noto Serif SC, serif, sans-serif;
+  font-family: Noto Sans SC, sans, sans-serif;
   -webkit-tap-highlight-color: transparent;
 }
 ::selection {
@@ -264,7 +264,7 @@ li {
 .header .title,
 .header .logo {
   text-align: center;
-  font-family: Noto Serif SC, serif, sans-serif;
+  font-family: New Tegomin, serif;
   text-decoration: none;
   font-size: 5rem;
   font-weight: bold;
@@ -375,7 +375,7 @@ li {
   transition: all 400ms ease-out;
 }
 .nav .layui-container .nav-title {
-  font-family: Noto Serif SC, serif, sans-serif;
+  font-family: New Tegomin, serif;
   padding: 0.5em;
   font-weight: 700;
   font-size: 1.5em;
